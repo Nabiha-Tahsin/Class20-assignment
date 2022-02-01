@@ -1,0 +1,35 @@
+.header{
+    background-color: #e3f2fd !important;
+}
+
+
+.header img{
+    width: 40px;
+}
+
+
+.breadcrumb{
+    background-color: #e9ecef;
+}
+
+
+.carousel-inner img{
+    height: 500px;
+}
+
+
+.scrollspy-example{
+    position: relative;
+    height: 200px;
+    overflow-y: scroll;
+}
+
+
+.btn-group a{
+    text-decoration: none;
+    color: #000;
+}
+
+
+
+
